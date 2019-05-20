@@ -1,4 +1,5 @@
 # social-frontend
+to build static social site
 
 ## Assignment
 
